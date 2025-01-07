@@ -1,0 +1,6 @@
+.vscode/
+dataset/
+data/
+extra/
+*.pptx
+data/*/  
