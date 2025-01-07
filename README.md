@@ -13,6 +13,7 @@ Image dataset containing different healthy and unhealthy crop leaves.
 [Plant Disease Detection Dataset](https://www.kaggle.com/datasets/vipoooool/new-plant-diseases-dataset/data?select=New+Plant+Diseases+Dataset%28Augmented%29)
 
 ## Training Data Setup
+```
 plant-disease-detection/
 │
 ├── data/
@@ -30,7 +31,7 @@ plant-disease-detection/
 ├── model.pth
 ├── requirements.txt
 └── README.md
-
+```
 
 ## Installation
 
